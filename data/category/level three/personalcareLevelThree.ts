@@ -1,0 +1,65 @@
+export const personalcareLevelThree = [
+  {
+    parentCategoryId: "skincare",
+    categoryId: "bodylotion",
+    level: 3,
+    name: "Vaseline Body Lotion",
+    parentCategoryName: "Skin Care",
+  },
+  {
+    parentCategoryId: "skincare",
+    categoryId: "bodylotion",
+    level: 3,
+    name: "Pond's Vaseline",
+    parentCategoryName: "Skin Care",
+  },
+  {
+    parentCategoryId: "skincare",
+    categoryId: "bodylotion",
+    level: 3,
+    name: "Pond's ",
+    parentCategoryName: "Skin Care",
+  },
+  {
+    parentCategoryId: "skincare",
+    categoryId: "bodylotion",
+    level: 3,
+    name: "Yardly Gold Powder",
+    parentCategoryName: "Skin Care",
+  },
+  {
+    parentCategoryId: "beautyproduct",
+    categoryId: "gubCottonBall",
+    level: 3,
+    name: "Gub Cotton Coloured balls",
+    parentCategoryName: "Beauty Product",
+  },
+  {
+    parentCategoryId: "beautyproduct",
+    categoryId: "makupUpBrushes",
+    level: 3,
+    name: "MakeUpBrushes",
+    parentCategoryName: "Beauty Product",
+  },
+  {
+    parentCategoryId: "beautyproduct",
+    categoryId: "nail",
+    level: 3,
+    name: "Nail clipper",
+    parentCategoryName: "Beauty Product",
+  },
+  {
+    parentCategoryId: "shaving",
+    categoryId: "vicco",
+    level: 3,
+    name: "Vicco Turmeric Shaving Cream",
+    parentCategoryName: "Shaving Needs",
+  },
+  {
+    parentCategoryId: "shaving",
+    categoryId: "hair",
+    level: 3,
+    name: "Hair Removal Razer",
+    parentCategoryName: "Shaving Needs",
+  }
+];
